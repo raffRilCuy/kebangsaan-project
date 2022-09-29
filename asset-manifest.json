@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kebangsaan-project/static/css/main.073c9b0a.css",
+    "main.js": "/kebangsaan-project/static/js/main.406ba529.js",
+    "index.html": "/kebangsaan-project/index.html",
+    "main.073c9b0a.css.map": "/kebangsaan-project/static/css/main.073c9b0a.css.map",
+    "main.406ba529.js.map": "/kebangsaan-project/static/js/main.406ba529.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.406ba529.js"
+  ]
+}
